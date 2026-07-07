@@ -99,4 +99,3 @@ This project demonstrates image annotation for computer vision using CVAT. A cus
 
 **Divyani Mandale**
 
-Artificial Intelligence and Data Science Student
