@@ -85,13 +85,9 @@ This project demonstrates image annotation for computer vision using CVAT. A cus
 
 ## Sample Annotation
 
-### Screenshot 1
+![Annotation 1](Screenshot%202026-07-08%20003817.png)
 
-(Add Screenshot 1 here)
-
-### Screenshot 2
-
-(Add Screenshot 2 here)
+![Annotation 2](Screenshot%202026-07-08%20003937.png)
 
 ---
 
